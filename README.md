@@ -16,6 +16,14 @@ Asegúrate de tener instalados los siguientes componentes antes de comenzar:
 
 *PHP y MySQL puedes tenerlos con XAMPP*
 
+Descargar tanto el backend como el frontend de sus respectivos repositorios
+- **Backend** https://github.com/4R1D4Y/backend-proyecto-final
+- **Frontend** https://github.com/4R1D4Y/frontend-proyecto-final
+
+Y guardar ambas partes en una misma carpeta/directorio
+```text
+proyecto/backend-creo | proyecto/frontend-creo
+```
 ---
 
 ## 🔧 Instalación y Configuración
