@@ -85,6 +85,7 @@ cd frontend-creo
     npm run dev
     ```
 
+Luego, para acceder a la web, debe ir a http://localhost:5173
 ---
 
 ## 🛰️ API y Rutas Destacadas
