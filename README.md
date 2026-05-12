@@ -30,6 +30,8 @@ proyecto/backend-creo | proyecto/frontend-creo
 
 Sigue estos pasos en orden para levantar el entorno local:
 
+Antes se debe crear la base de datos `web_creo` en MySQL. Las tablas y datos de las mismas se crearan con el framework del backend.
+
 ### 1. Configuración del Backend (Laravel)
 No es necesario instalar Laravel globalmente; se descargará localmente con Composer.
 
